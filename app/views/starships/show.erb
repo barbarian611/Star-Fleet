@@ -1,0 +1,34 @@
+<h2> <%= @starship.name %> </h2>
+
+<br>
+
+<li>
+<%= @starship.name %>
+<li>
+<%= @starship.ship_class %>
+<li>
+<%= @starship.location %>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h4>Add a crewmember to the ship</h4>
+
+<form action="/starships/<%= @starship.id %>" method="post">
+
+  <label for="first_name">First name:
+    <input type="text" name="first_name" id="first_name">
+  </label>
+
+  <label for="last_name">Last name:
+    <input type="text" name="last_name" id="last_name">
+  </label>
+
+  <label for="specialty_division">Specialty divison:
+    <input type="text" name="specialty_division" id="specialty_division">
+  </label>
+
+
+  <input class="button" type="submit" name="" value="Submit">
+</form>

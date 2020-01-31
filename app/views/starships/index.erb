@@ -1,0 +1,9 @@
+<h1>shmugamugana</h1>
+
+<% @starships.each do |starship| %>
+  <li>
+    <a href="/starships/<%= starship.id %>"><%= starship.name %>
+  </li>
+<% end %>
+
+<a href="/starships/new">Create a new Star Wars ship only!</a>

@@ -1,0 +1,10 @@
+<h2>Pilots and crew members</h2>
+
+<% @crew_members.each do |crew_member| %>
+  <li>
+    <%= crew_member.first_name %>
+    <%= crew_member.last_name %>
+    <br>
+    Alignment: <%= crew_member.specialty_division %>
+  </li>
+<% end %>
