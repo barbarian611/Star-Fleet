@@ -10,7 +10,7 @@ Launch Academy central command has put you in charge of creating an application 
 
 **Understand the importance of acceptance testing.** The requirements for this challenge are presented as user stories and acceptance criteria. Use them to build your acceptance tests!
 
-#### Getting Started
+### Getting Started
 
 To get started, run:
 
@@ -219,7 +219,7 @@ I want to decomission my starship
 So that it can be retrofitted or scrapped
 ```
 
-Acceptance Criteria:
+Acceptance Criteria:  
 
 - There should be a delete button on the starship's show page.
 - If I click on the delete button, the starship should be deleted and I should be redirected to the starships index page. Also, all of the starship's crew members should be deleted as well.
