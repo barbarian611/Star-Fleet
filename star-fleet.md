@@ -2,17 +2,17 @@ _Space, the final frontier. These are the voyages of Launch Academy. Its ongoing
 
 Launch Academy central command has put you in charge of creating an application that helps us organize starships and crew members by applying your knowledge of ActiveRecord and Sinatra.
 
-### Learning Goals
+### Learning Goals 
 
-**See how the components of a database-backed web app fit together.** ActiveRecord Migrations, Associations, and Validations (all of which you'll be covering this week!) are all used in the context of building a broader web application. You will also see how ActiveRecord models work with your Sinatra server and views.
+**See how the components of a database-backed web app fit together.** ActiveRecord Migrations, Associations, and Validations (all of which you'll be covering this week!) are all used in the context of building a broader web application. You will also see how ActiveRecord models work with your Sinatra server and views. 
+ 
+**Walk through the app-planning process.** ER diagrams and database relationships form the foundation of your application. It's important to deliberately plan what tables/models are needed and how they will be related to one another. ActiveRecord is simply a tool for implementing these database relationships. 
 
-**Walk through the app-planning process.** ER diagrams and database relationships form the foundation of your application. It's important to deliberately plan what tables/models are needed and how they will be related to one another. ActiveRecord is simply a tool for implementing these database relationships.
+**Understand the importance of acceptance testing.** The requirements for this challenge are presented as user stories and acceptance criteria. Use them to build your acceptance tests! 
 
-**Understand the importance of acceptance testing.** The requirements for this challenge are presented as user stories and acceptance criteria. Use them to build your acceptance tests!
+### Getting Started 
 
-### Getting Started
-
-To get started, run:
+To get started, run: 
 
 ```no-highlight
 et get star-fleet
