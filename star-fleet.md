@@ -11,7 +11,7 @@ Launch Academy central command has put you in charge of creating an application 
 **Understand the importance of acceptance testing.** The requirements for this challenge are presented as user stories and acceptance criteria. Use them to build your acceptance tests! 
  
 ### Getting Started 
-  
+   
 To get started, run: 
 
 ```no-highlight
