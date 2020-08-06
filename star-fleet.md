@@ -10,13 +10,13 @@ Launch Academy central command has put you in charge of creating an application 
  
 **Understand the importance of acceptance testing.** The requirements for this challenge are presented as user stories and acceptance criteria. Use them to build your acceptance tests! 
  
-### Getting Started  
+### Getting Started   
    
-To get started, run: 
+To get started, run:  
 
 ```no-highlight
-et get star-fleet
-cd star-fleet
+et get star-fleet 
+cd star-fleet 
 bundle install
 ```
 
@@ -37,7 +37,7 @@ Use the user stories and acceptance criteria below to guide you as you build an 
 
 Your primary focus should be on creating the appropriate database schema, routes, and ActiveRecord CRUD operations to view ships in the Sinatra application.
 
-Part 2 introduces the `crew_members` table, which will first require you to learn about ActiveRecord Associations so that you can set up your schema properly. **Do not begin Part Two until you have completed Part One**.
+Part 2 introduces the `crew_members` table, which will first require you to learn about ActiveRecord Associations so that you can set up your schema properly. **Do not begin Part Two until you have completed Part One**.  
 
 ### Plan of Attack
 
@@ -48,7 +48,7 @@ Part 2 introduces the `crew_members` table, which will first require you to lear
 
 **You should be running `rake db:test:prepare` after every migration.** This command will ensure your test database is up to date with your development database
 
-## User Stories
+## User Stories 
 
 ### Core User Stories
 
