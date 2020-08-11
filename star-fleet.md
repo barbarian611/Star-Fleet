@@ -1,9 +1,9 @@
 _Space, the final frontier. These are the voyages of Launch Academy. Its ongoing mission: to explore strange new technologies. To learn new frameworks and new languages. To boldly build apps that no one has built before._
  
 Launch Academy central command has put you in charge of creating an application that helps us organize starships and crew members by applying your knowledge of ActiveRecord and Sinatra.  
- 
+  
 ### Learning Goals  
-   
+    
 **See how the components of a database-backed web app fit together.** ActiveRecord Migrations, Associations, and Validations (all of which you'll be covering this week!) are all used in the context of building a broader web application. You will also see how ActiveRecord models work with your Sinatra server and views. 
  
 **Walk through the app-planning process.** ER diagrams and database relationships form the foundation of your application. It's important to deliberately plan what tables/models are needed and how they will be related to one another. ActiveRecord is simply a tool for implementing these database relationships. 
@@ -93,7 +93,7 @@ Acceptance Criteria:
 - I must supply a name, ship class, and location of the starship.
 - If the form submission is successful, I should be brought to the starship's show page, and I should see a message that lets me know that I have created a starship successfully.
 - If the form submission is unsuccessful, I should remain on the starships new page. The form should be pre-filled with the values that were provided when the form was submitted.
-
+ 
 #### Part 2: Viewing and Creating Crew Members
 
 ##### Instructions
