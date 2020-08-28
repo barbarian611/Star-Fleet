@@ -1,4 +1,4 @@
-_Space, the final frontier. These are the voyages of Launch Academy. Its ongoing mission: to explore strange new technologies. To learn new frameworks and new languages. To boldly build apps that no one has built before._ 
+_Space, the final frontier. These are the voyages of Launch Academy. Its ongoing mission: to explore strange new technologies. To learn new frameworks and new languages. To boldly build apps that no one has built before._  
  
 Launch Academy central command has put you in charge of creating an application that helps us organize starships and crew members by applying your knowledge of ActiveRecord and Sinatra.  
    
