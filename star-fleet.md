@@ -12,7 +12,7 @@ Launch Academy central command has put you in charge of creating an application 
   
 ### Getting Started    
    
-To get started, run:   
+To get started, run:    
 
 ```no-highlight 
 et get star-fleet 
