@@ -24,7 +24,7 @@ Next, run the following command to create your database:
 
 ```no-highlight
 rake db:create 
-```
+``` 
 
 We can create the database with that simple command because of the information stored in `config/database.yml`!
 
