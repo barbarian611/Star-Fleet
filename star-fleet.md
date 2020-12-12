@@ -22,7 +22,7 @@ bundle install
 
 Next, run the following command to create your database:
 
-```no-highlight
+```no-highlight 
 rake db:create 
 ``` 
 
