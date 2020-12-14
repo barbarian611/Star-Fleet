@@ -16,7 +16,7 @@ To get started, run:
  
 ```no-highlight 
 et get star-fleet 
-cd star-fleet 
+cd star-fleet  
 bundle install
 ```
 
