@@ -14,7 +14,7 @@ Launch Academy central command has put you in charge of creating an application 
  
 To get started, run:     
  
-```no-highlight 
+```no-highlight  
 et get star-fleet 
 cd star-fleet  
 bundle install
