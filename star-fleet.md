@@ -9,7 +9,7 @@ Launch Academy central command has put you in charge of creating an application 
 **Walk through the app-planning process.** ER diagrams and database relationships form the foundation of your application. It's important to deliberately plan what tables/models are needed and how they will be related to one another. ActiveRecord is simply a tool for implementing these database relationships. 
  
 **Understand the importance of acceptance testing.** The requirements for this challenge are presented as user stories and acceptance criteria. Use them to build your acceptance tests!   
-   
+    
 ### Getting Started 
   
 To get started, run:     
