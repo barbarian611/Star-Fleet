@@ -38,7 +38,7 @@ Use the user stories and acceptance criteria below to guide you as you build an 
 Your primary focus should be on creating the appropriate database schema, routes, and ActiveRecord CRUD operations to view ships in the Sinatra application.
 
 Part 2 introduces the `crew_members` table, which will first require you to learn about ActiveRecord Associations so that you can set up your schema properly. **Do not begin Part Two until you have completed Part One**.  
-
+ 
 ### Plan of Attack
 
 1. Read through all user stories for a rough idea of the app
