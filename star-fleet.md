@@ -63,7 +63,7 @@ As an admiral in the star fleet
 I want to view a list of all starships exploring the galaxy
 So that I can make strategic plans that ensure the safety and wellbeing of all
 ```
-
+ 
 Acceptance Criteria:
 
 - If I go to the root path, I should be redirected to `/starships`.
